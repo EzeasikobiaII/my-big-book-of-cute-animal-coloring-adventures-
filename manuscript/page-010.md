@@ -1,113 +1,84 @@
+# Page 10: Little Penguin on an Ice Adventure
 
-# Page 10: Puppy With a Big Ball
+## Animal
+Little Penguin
 
-## Coloring Page Concept
+## Scene Description
+Create a cute, friendly little penguin standing proudly on a simple snowy landscape.
 
-A cute, energetic puppy having fun playing with a large ball in a simple
-backyard.
-
-The puppy should be the main focus and should look playful, excited, and
-friendly.
-
-## Main Character
-
-A young, adorable puppy standing beside or playfully touching a large ball.
-
-The puppy should have:
-
+The penguin should have:
 - Large friendly eyes
-- Floppy ears
-- A small smiling mouth
-- A cheerful expression
-- A simple collar without any logo or brand
-- Large, simple paws
+- A small rounded beak
+- A cheerful smile
+- Short flippers
+- Cute rounded body
+- Simple feet
+- A playful, child-friendly expression
 
-## Adventure Setting
-
-Create a simple backyard scene.
-
+## Background Elements
 Include:
+- Two or three simple ice blocks
+- A small snowy hill
+- A few simple snowflakes
+- One small snow-covered tree
+- Two or three rounded clouds
+- A small fish-shaped toy or simple decorative object near the penguin
 
-- One large ball
-- A small tree
-- A few large flowers
-- Simple grass
-- A small fence in the background
-- Two fluffy clouds
-- One small butterfly
+Keep the background simple and uncluttered.
 
-Keep the setting simple and uncluttered.
-
-The ball should be large enough to provide an enjoyable coloring area.
-
-## Composition
-
-Place the puppy prominently in the center of the page.
-
-Place the large ball directly beside the puppy.
-
-The puppy should appear to be playing with or getting ready to chase the
-ball.
-
-Use the tree, flowers, fence, and clouds as simple background elements.
-
-Leave generous open areas for coloring.
+## Illustration Style
+- Black-and-white coloring book line art
+- Bold, smooth outlines
+- Large open coloring areas
+- Simple shapes suitable for children ages 4–8
+- No gray
+- No gradients
+- No shading
+- White background
+- Clear separation between objects
+- Plenty of open space for coloring
 
 ## Animal Name
 
-Place the animal's name directly below the puppy.
+Place the word:
 
-Use:
+**PENGUIN**
 
-PUPPY
+Directly below the penguin.
 
-The name must be written in large, bold, easy-to-read outlined letters.
-
-The letter interiors must remain white/open so children can color or shade
-inside the letters.
-
-Do not use solid black lettering.
-
-The name should be centered beneath the puppy and remain comfortably inside
-the safe area.
-
-## Illustration Style
-
-- Cute children's coloring-book style
-- Black-and-white line art
-- Bold, smooth outlines
-- Large coloring areas
-- Simple shapes
-- Friendly facial expression
-- Minimal detail
-- No gray shading
-- No gradients
-- White background
+The animal name must:
+- Use large, bold, easy-to-read outlined letters
+- Have white/open interiors so children can color or shade inside the letters
+- NOT be solid black
+- Be centered beneath the animal
+- Stay safely inside the page margins
 
 ## Audience
-
-Children ages 4–8.
+Kids ages 4–8.
 
 ## Print Specifications
-
 - Trim size: 8.5 × 11 inches
-- Portrait orientation
-- No bleed
+- Orientation: Portrait
+- Interior: Black-and-white
+- Bleed: None
 - Target resolution: 300 DPI
 - Target artwork size: 2550 × 3300 pixels
-- Keep all important artwork safely inside the safe area
+- Keep all important artwork and text inside the safe area
 
-## Restrictions
-
+## Content Restrictions
 Do not include:
-
 - Copyrighted characters
-- Brand logos
-- Trademarked designs
+- Trademarked characters
+- Logos
+- Brand names
 - Watermarks
-- Photorealistic elements
-- Scary imagery
-- Extremely thin lines
-- Tiny coloring areas
+- Photorealistic imagery
+- Scary or frightening imagery
+- Weapons
+- Thin, fragile linework
+- Tiny coloring sections
 - Unnecessary text
 - Solid black animal-name lettering
+
+## Quality Goal
+The finished illustration should look like a professional children's coloring-book page: cute, clean, simple, highly printable, and enjoyable for a 4–8-year-old child to color.
