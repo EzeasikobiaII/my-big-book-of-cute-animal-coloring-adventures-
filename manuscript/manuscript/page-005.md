@@ -45,6 +45,24 @@ crowding the page.
 
 Leave generous open areas for coloring.
 
+## Animal Name
+
+Place the animal's name directly below the puppy.
+
+Use:
+
+PUPPY
+
+The name must be written in large, bold, easy-to-read outlined letters.
+
+The letter interiors must remain white/open so children can color or shade
+inside the letters.
+
+Do not use solid black lettering.
+
+The name should be centered beneath the puppy and remain comfortably inside
+the safe area.
+
 ## Illustration Style
 
 - Cute children's coloring-book style
