@@ -1,142 +1,95 @@
-# My Big Book of Cute Animal Coloring Adventures
+# Manuscript Production Specifications
 
-## Book Information
+## Final Book Size
 
-**Title:** My Big Book of Cute Animal Coloring Adventures
+Trim size: 8.5 × 11 inches
 
-**Subtitle:** 50 Fun, Easy & Adorable Coloring Pages for Kids Ages 4–8
+Orientation: Portrait
 
-**Format:** Paperback
+Interior bleed: No bleed
 
-**Trim Size:** 8.5 × 11 inches
+Interior color: Black and white
 
-**Interior:** Black-and-white line art
+Target resolution: 300 DPI
 
-**Bleed:** No bleed
+Target artwork dimensions: 2550 × 3300 pixels
 
-**Planned Interior Pages:** 60
+## Safe Area
 
-**Coloring Pages:** 50
+Keep important artwork, text, and decorative elements comfortably inside
+the trim edges.
 
-**Target Audience:** Children ages 4–8
+Do not place important content directly against the page edge.
 
----
+## Page Requirements
 
-## Book Concept
+Each page must be a separate page.
 
-A fun and engaging coloring adventure featuring cute animals in simple,
-imaginative settings.
+Do not use:
 
-The illustrations should encourage creativity while remaining easy enough
-for young children to color.
+- Two-page spreads
+- Contact sheets
+- Crop marks
+- Trim marks
+- Registration marks
+- Watermarks
+- Placeholder text
+- Invisible objects
+- Unnecessary metadata
 
----
+## Coloring Artwork
 
-## Illustration Style
+Artwork should be:
 
-Every coloring illustration should use:
+- Black line art on a white background
+- Bold and clean
+- Easy for children ages 4–8 to color
+- Simple enough to avoid visual clutter
+- Friendly and age appropriate
 
-- Bold, clean black outlines
-- Large coloring areas
-- Simple, recognizable shapes
-- Cute and friendly animal expressions
-- Simple backgrounds
-- Minimal visual clutter
-- No gray shading
-- No gradients
-- No unnecessary tiny details
-- No copyrighted characters
-- No brand logos
-- No frightening or inappropriate imagery
+Avoid:
 
-Artwork should be designed specifically for children ages 4–8.
+- Gray shading
+- Gradients
+- Extremely thin lines
+- Tiny coloring areas
+- Copyrighted characters
+- Brand logos
+- Trademarks
+- Frightening imagery
 
----
+## Page Naming
 
-## Production Specification
+Use sequential filenames:
 
-Target artwork resolution:
+page-001.png
+page-002.png
+page-003.png
 
-**300 DPI**
+Continue through:
 
-Target pixel dimensions for an 8.5 × 11 inch page:
+page-060.png
 
-**2550 × 3300 pixels**
+## Page Order
 
-Each illustration must be stored as an individual page.
+001 - Title Page
+002 - Copyright / Publishing Information
+003 - This Book Belongs To
+004 - Welcome to the Animal Adventure
 
-Do not use a contact sheet as the final manuscript.
+005–054 - 50 Coloring Pages
 
----
+055 - My Favorite Animal
+056 - Design Your Own Animal
+057 - Animal Adventure Certificate
+058 - Great Job, Little Artist!
+059 - More Adventures Coming Soon
+060 - End Page / Publisher Information
 
-## Page Structure
+## Final PDF
 
-### Front Matter
+The completed manuscript will be assembled into:
 
-1. Title Page
-2. Copyright / Publishing Information
-3. This Book Belongs To
-4. Welcome to the Animal Adventure
+interior.pdf
 
-### Coloring Pages
-
-5–54: 50 individual animal coloring illustrations
-
-### Closing Pages
-
-55. My Favorite Animal
-56. Design Your Own Animal
-57. Animal Adventure Certificate
-58. Great Job, Little Artist!
-59. More Adventures Coming Soon
-60. End Page / Publisher Information
-
----
-
-## Quality Control
-
-Before final PDF assembly:
-
-- [ ] Every page is the correct size
-- [ ] Artwork is 300 DPI
-- [ ] Pages are in the correct order
-- [ ] Artwork stays within safe margins
-- [ ] Lines are clean and printable
-- [ ] No accidental text
-- [ ] No duplicate illustrations
-- [ ] No copyrighted characters
-- [ ] No trademarks or logos
-- [ ] No inappropriate imagery
-- [ ] No unnecessary blank pages
-- [ ] Images are embedded in the final PDF
-- [ ] Fonts are embedded where applicable
-
----
-
-## KDP Production
-
-The final manuscript will be prepared according to current Amazon KDP
-paperback requirements.
-
-The final PDF will be checked using KDP Print Previewer before publication.
-
-A physical proof should be reviewed before the book is released.
-
----
-
-## Project Status
-
-- [x] Repository created
-- [x] Manuscript folder created
-- [x] Cover folder created
-- [x] Metadata folder created
-- [x] KDP checklist created
-- [ ] Front matter created
-- [ ] 50 coloring illustrations created
-- [ ] Closing pages created
-- [ ] Interior PDF assembled
-- [ ] Cover created
-- [ ] KDP metadata completed
-- [ ] Print Previewer checked
-- [ ] Physical proof reviewed
-- [ ] Book published
+The PDF will be checked before uploading to Amazon KDP.
