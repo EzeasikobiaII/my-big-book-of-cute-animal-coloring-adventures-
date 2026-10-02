@@ -1,4 +1,4 @@
-# Page 60: Until Our Next Animal Adventure
+# Page 64: Until Our Next Animal Adventure
 
 ## Activity
 Create a warm, cheerful final page that brings the animal coloring adventure to a happy close.
