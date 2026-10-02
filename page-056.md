@@ -1,4 +1,4 @@
-# Page 52: Design Your Own Animal
+# Page 56: Design Your Own Animal
 
 ## Activity
 Create a fun creative activity page where children can invent and design their own unique animal.
