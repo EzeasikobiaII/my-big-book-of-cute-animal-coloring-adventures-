@@ -1,4 +1,4 @@
-# Page 58: Color the Animal Patterns
+# Page 62: Color the Animal Patterns
 
 ## Activity
 Create a fun pattern-coloring activity where children can practice recognizing and coloring different animal patterns.
