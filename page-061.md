@@ -1,4 +1,4 @@
-# Page 57: Animal Maze Adventure
+# Page 61: Animal Maze Adventure
 
 ## Activity
 Create a fun, simple maze activity where children help a cute animal find its way home.
