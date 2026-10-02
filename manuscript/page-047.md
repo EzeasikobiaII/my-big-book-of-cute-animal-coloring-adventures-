@@ -1,35 +1,36 @@
-# Page 47: Happy Hedgehog in the Garden
+# Page 47: Playful Kangaroo in the Outback
 
 ## Animal
-Hedgehog
+Kangaroo
 
 ## Scene Description
-Create a cute, friendly hedgehog walking happily through a peaceful garden.
+Create a cute, friendly kangaroo standing happily in a peaceful Australian outback landscape.
 
-The hedgehog should have:
-- A small rounded body
-- Clearly separated soft-looking spines
-- A small pointed snout
+The kangaroo should have:
+- A large rounded body
+- Powerful but simple hind legs
+- Small front paws
+- A long thick tail
+- Large upright ears
 - Large friendly eyes
-- Tiny rounded ears
-- Small front and back feet
-- A tiny rounded tail
-- A cheerful, curious expression
+- A small rounded nose
+- A cheerful smiling expression
+- A small joey peeking gently from the mother's pouch
 
-Keep the hedgehog clearly recognizable while using simple shapes suitable for children ages 4–8.
+Keep the kangaroo clearly recognizable while using simple shapes suitable for children ages 4–8.
 
 ## Background Elements
 Include:
-- Large garden flowers
-- Rounded bushes
-- Several large leaves
-- Smooth garden stones
-- A few mushrooms
-- Small patches of grass
-- Two butterflies
-- One small watering can placed in the background
+- Simple rounded hills
+- A few eucalyptus trees
+- Large grass patches
+- Small wildflowers
+- Several smooth rocks
+- A few simple clouds
+- One small butterfly
+- A simple path winding through the landscape
 
-Keep the garden scene spacious and uncluttered.
+Keep the outback scene spacious and uncluttered.
 
 ## Illustration Style
 - Black-and-white children's coloring book line art
@@ -48,9 +49,9 @@ Keep the garden scene spacious and uncluttered.
 
 Place the word:
 
-**HEDGEHOG**
+**KANGAROO**
 
-Directly below the hedgehog.
+Directly below the kangaroo.
 
 The animal name must:
 - Use large, bold, easy-to-read outlined letters
