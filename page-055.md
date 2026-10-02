@@ -1,4 +1,4 @@
-# Page 51: My Favorite Animal
+# Page 55: My Favorite Animal
 
 ## Activity
 Create a fun, spacious activity page where children can draw and color their favorite animal from the book.
