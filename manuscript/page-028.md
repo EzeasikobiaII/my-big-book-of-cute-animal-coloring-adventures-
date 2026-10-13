@@ -1,65 +1,54 @@
-# Page 28: Sweet Fawn in the Meadow
+# Page 28: Graceful Swan on the Lake
 
 ## Animal
-Fawn
+Swan
 
 ## Scene Description
-Create a cute, friendly baby deer (fawn) standing peacefully in a flower meadow.
+Create a cute, friendly swan gliding peacefully across a small lake. The swan should be the main focus, with a gently curved neck, rounded body, simple wings, and a calm expression. Make the design recognizable and easy for children ages 4–8 to color.
 
-The fawn should have:
-- Large friendly eyes
-- Small rounded ears
-- A tiny nose
-- A gentle smile
-- Short simple legs
-- A small fluffy tail
-- Clearly separated simple spots across its back
-- A cheerful, gentle expression
+## Main Character
+The swan should have:
+- A long, gently curved neck
+- A simple rounded head
+- A small, clearly outlined beak
+- A friendly eye and gentle expression
+- A rounded body with broad feather sections
+- Simple wings with large, open feather shapes
 
-Keep the fawn easily recognizable and make the spots large enough for children ages 4–8 to color.
+Avoid tiny feather details and complicated anatomy.
 
 ## Background Elements
 Include:
-- Several large simple flowers
-- Tall but simple grass
-- A few large leaves
-- One small bush
-- Two simple trees in the background
-- Two fluffy clouds
-- A small butterfly
+- A few broad curved lines showing calm water
+- Two or three large water lilies or simple reeds
+- One small cloud
+- A simple distant shoreline
+- One or two large flowers on the shore
 
-Keep the meadow spacious and uncluttered.
+Keep the lake scene spacious and uncluttered. Leave generous white space around the swan and separate each object clearly.
 
-## Illustration Style
-- Black-and-white children's coloring book line art
-- Bold, smooth outlines
-- Large open coloring areas
-- Simple shapes suitable for children ages 4–8
-- Large, clearly separated sections
-- No gray
-- No gradients
-- No shading
-- White background
-- Clear separation between objects
-- Plenty of open space for coloring
+## Composition
+Place the swan prominently in the center of the page, floating on the lake. Make the neck and body large enough to color comfortably. Keep the water lilies and reeds away from the swan's outline so the shapes do not merge.
 
 ## Animal Name
 
 Place the word:
 
-**FAWN**
+SWAN
 
-Directly below the fawn.
+Directly below the swan. Use large, bold, easy-to-read outlined letters with white interiors so children can color inside them. Do not use solid-black lettering. Center the word and keep it safely inside the page margins.
 
-The animal name must:
-- Use large, bold, easy-to-read outlined letters
-- Have white/open interiors so children can color or shade inside the letters
-- NOT be solid black
-- Be centered beneath the animal
-- Stay safely inside the page margins
-
-## Audience
-Kids ages 4–8.
+## Illustration Style
+- Black-and-white children's coloring-book line art
+- Bold, smooth outlines
+- Large open coloring areas
+- Simple shapes suitable for children ages 4–8
+- Clearly separated sections
+- No gray shading
+- No gradients
+- No shadows
+- White background
+- Plenty of open space for coloring
 
 ## Print Specifications
 - Trim size: 8.5 × 11 inches
@@ -71,19 +60,7 @@ Kids ages 4–8.
 - Keep all important artwork and text inside the safe area
 
 ## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Thin, fragile linework
-- Tiny coloring sections
-- Unnecessary text
-- Solid black animal-name lettering
+Do not include copyrighted characters, logos, trademarks, watermarks, photorealistic imagery, frightening imagery, weapons, fragile linework, tiny coloring sections, unnecessary text, or solid-black animal-name lettering.
 
 ## Quality Goal
-The finished illustration should look like a professional children's coloring-book page: cute, clean, simple, highly printable, and enjoyable for a 4–8-year-old child to color.
+The finished illustration should be a clean, friendly, printable coloring page with large, easy-to-color shapes and a peaceful lake scene.
