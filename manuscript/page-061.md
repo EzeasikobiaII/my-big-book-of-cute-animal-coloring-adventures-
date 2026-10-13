@@ -1,86 +1,100 @@
 # Page 61: Animal Maze Adventure
 
-## Activity
-Create a fun, simple maze activity where children help a cute animal find its way home.
+## Page Purpose
+Help a cute animal find its way home through a simple, child-friendly maze.
 
-## Page Layout
-Include:
+## Main Heading
+Display the following words in large, playful, outlined uppercase letters:
 
-**ANIMAL MAZE ADVENTURE**
+ANIMAL MAZE
+ADVENTURE!
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+## Instructions
+Include the following text beneath the heading:
 
-Below the heading, create a large, child-friendly maze.
+Can you help Bunny find the way home?
+Follow the path through the maze!
 
-### Maze Design
-The maze should:
-- Have one clear starting point
-- Have one clear finish point
-- Use thick, smooth maze walls
-- Have wide pathways suitable for children ages 4–8
-- Avoid overly complicated turns
-- Avoid tiny spaces
-- Be easy to follow with a pencil or crayon
+Use large, clear lettering suitable for children ages 4–8.
 
-At the starting point, include a cute original animal such as a small puppy.
+## Main Illustration
+
+Create a large, easy-to-follow maze in the center of the page.
+
+### Starting Point
+
+Place a cute, smiling bunny outside the maze entrance on the left side.
 
 Label the starting point:
 
-**START**
+START
 
-At the finishing point, include a cozy animal home such as a simple doghouse.
+The bunny should be simple black-and-white line art with long ears and a friendly expression.
 
-Label the finishing point:
+### Destination
 
-**HOME**
+Place a small, welcoming rabbit hutch outside the maze exit on the right side.
 
-Add a few simple decorative elements around the maze:
-- Paw prints
-- Stars
-- Small clouds
-- Hearts
-- Leaves
+Label the destination:
 
-Keep the maze itself clear and unobstructed.
+HOME
 
-## Illustration Style
-- Black-and-white children's activity-book line art
-- Bold, smooth outlines
-- Large open areas
-- Simple shapes suitable for children ages 4–8
-- Clear maze pathways
-- No gray
-- No gradients
-- No shading
-- White background
-- Strong separation between maze walls and decorative elements
+Draw the hutch with clean outlines and a simple doorway.
 
-## Audience
-Kids ages 4–8.
+### Maze Design Requirements
+
+- Use thick, clear black outlines for the maze walls.
+- Create one continuous, solvable route from START to HOME.
+- Include a few simple dead ends to make the activity interesting.
+- Keep the maze easy enough for children ages 4–8.
+- Make the corridors wide enough for a child to trace with a pencil.
+- Ensure the entrance and exit are clearly visible.
+- Keep the bunny and rabbit hutch outside the maze pathways.
+- Do not draw the solution path.
+- Do not include arrows that reveal the correct route.
+- Do not allow maze walls to overlap or create accidental openings.
+- Ensure there is exactly one intended route to the destination.
+
+## Decorative Elements
+
+Add a few small outline decorations around the outer edges of the page, such as:
+
+- Small paw prints
+- Tiny flowers
+- A star
+- A little leaf
+
+Keep decorations away from the maze and its pathways.
+
+## Illustration Rules
+
+- Black-and-white line art only.
+- Use bold, clean outlines.
+- No gray shading, gradients, or colored backgrounds.
+- Keep the page uncluttered.
+- Make all maze walls and openings easy to distinguish.
+- Use a cheerful style suitable for children ages 4–8.
 
 ## Print Specifications
-- Trim size: 8.5 × 11 inches
-- Orientation: Portrait
-- Interior: Black-and-white
-- Bleed: None
-- Target resolution: 300 DPI
-- Target artwork dimensions: 2550 × 3300 pixels
-- Keep all important artwork and text inside the safe area
 
-## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Extremely difficult maze paths
-- Tiny maze pathways
-- Crowded layouts
-- Solid black decorative lettering
+- Page size: 8.5 × 11 inches.
+- Orientation: Portrait.
+- Interior: Black and white.
+- Bleed: No bleed.
+- Target resolution: 300 DPI.
+- Target dimensions: 2550 × 3300 pixels.
+- Keep all text, maze walls, and illustrations within safe print margins.
+- Leave sufficient white space for tracing with a pencil.
 
-## Quality Goal
-The finished page should be a fun, easy-to-understand maze that gives children a sense of accomplishment while helping develop pencil control, visual tracking, and problem-solving skills.
+## Quality Check
+
+Before approving the page, confirm:
+
+- The START point is easy to find.
+- The HOME destination is clearly marked.
+- There is a continuous, solvable route from START to HOME.
+- The maze is appropriate for children ages 4–8.
+- The corridors are wide enough for pencil tracing.
+- No solution path has been drawn.
+- No accidental openings or overlapping walls are present.
+- The page follows the book's 8.5 × 11-inch, no-bleed format.
