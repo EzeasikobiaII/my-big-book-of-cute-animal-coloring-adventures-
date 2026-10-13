@@ -1,87 +1,92 @@
 # Page 63: Great Job, Little Artist!
 
-## Activity
-Create a cheerful celebration page that congratulates children for completing their animal coloring adventure.
+## Page Purpose
+Celebrate the child's creativity, encourage confidence, and recognize the effort they put into completing the coloring activities.
 
-## Page Layout
-Include:
+## Main Heading
 
-**GREAT JOB, LITTLE ARTIST!**
+Display these words in large, playful, outlined uppercase letters:
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+GREAT JOB,
+LITTLE ARTIST!
 
-Below the heading, include a short encouraging message:
+Make the heading cheerful, bold, and easy to read.
 
-**You colored, created, explored, and learned about amazing animals!**
+## Encouraging Message
 
-Then create a large open celebration area where children can add their own colors and decorations.
+Include the following message beneath the heading:
 
-Include simple decorative elements such as:
-- Stars
-- Hearts
-- Confetti shapes
-- Balloons
-- Paw prints
-- Small leaves
-- Simple animal footprints
+YOU DID IT!
 
-Add a large outlined star in the center with the words:
+You colored amazing animals,
+played fun games, and used your imagination.
 
-**I DID IT!**
+Keep drawing, keep coloring,
+and keep being creative!
 
-The letters inside the star must also be outlined with white/open interiors so children can color them.
+Use short sentences and large, child-friendly lettering.
 
-Near the bottom, include:
+## Main Illustration
 
-**My favorite page was:**
+Create one large, cheerful illustration featuring:
 
-Follow this with a long blank line.
+- A smiling puppy holding a crayon.
+- A happy bunny sitting beside an open coloring book.
+- A small, friendly bird perched nearby.
+- A few large stars and simple hearts.
+- Several large, uncolored crayons arranged near the bottom.
 
-Then include:
+Keep the characters friendly and suitable for children ages 4–8.
 
-**My favorite animal was:**
+Leave the animals, crayons, stars, and hearts uncolored so children can add their own colors.
 
-Follow this with a long blank line.
+## Creative Coloring Area
 
-## Illustration Style
-- Black-and-white children's activity-book line art
-- Bold, smooth outlines
-- Large open coloring areas
-- Simple celebratory shapes
-- No gray
-- No gradients
-- No shading
-- White background
-- Clear separation between decorative elements
-- Plenty of open space for coloring
-- Easy for children ages 4–8 to use
+Include a large, open space around the main illustration.
 
-## Audience
-Kids ages 4–8.
+Make sure the puppy, bunny, bird, and crayons have clearly defined shapes with enough room for children to color comfortably.
+
+Do not crowd the page with too many small decorations.
+
+## Final Encouragement
+
+Near the bottom of the page, include:
+
+YOU ARE A SUPERSTAR!
+
+Add a large, simple outlined star beside the message for children to color.
+
+## Illustration Rules
+
+- Black-and-white line art only.
+- Use clean, bold outlines.
+- No gray shading, gradients, or colored backgrounds.
+- Avoid large solid-black areas.
+- Keep all illustrations uncolored.
+- Use large, easy-to-color shapes.
+- Make every word readable.
+- Keep the layout cheerful without overcrowding the page.
 
 ## Print Specifications
-- Trim size: 8.5 × 11 inches
-- Orientation: Portrait
-- Interior: Black-and-white
-- Bleed: None
-- Target resolution: 300 DPI
-- Target artwork dimensions: 2550 × 3300 pixels
-- Keep all important artwork and text inside the safe area
 
-## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Tiny writing areas
-- Crowded layouts
-- Excessive decorative elements
-- Solid black lettering
+- Page size: 8.5 × 11 inches.
+- Orientation: Portrait.
+- Interior: Black and white.
+- Bleed: No bleed.
+- Target resolution: 300 DPI.
+- Target dimensions: 2550 × 3300 pixels.
+- Keep all text and illustrations within safe print margins.
+- Leave sufficient white space for coloring.
 
-## Quality Goal
-The finished page should feel like a cheerful celebration of the child's creativity and effort, giving them one final page to color and personalize before reaching the end of the book.
+## Quality Check
+
+Before approving the page, confirm:
+
+- The main heading is large and readable.
+- The encouragement is positive and age-appropriate.
+- The puppy, bunny, and bird are easy to recognize.
+- The coloring areas are large and clearly outlined.
+- The superstar message is visible.
+- No gray shading or colored backgrounds are present.
+- No text or illustrations are cut off.
+- The page follows the book's 8.5 × 11-inch, no-bleed format.
