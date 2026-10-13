@@ -1,100 +1,119 @@
 # Page 62: Color the Animal Patterns
 
-## Activity
-Create a fun pattern-coloring activity where children can practice recognizing and coloring different animal patterns.
+## Page Purpose
+Help children recognize animal patterns and develop creativity through coloring.
 
-## Page Layout
-Include:
+## Main Heading
+Display the following words in large, playful, outlined uppercase letters:
 
-**COLOR THE ANIMAL PATTERNS**
+COLOR THE
+ANIMAL PATTERNS!
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+## Instructions
+Include this short instruction beneath the heading:
 
-Below the heading, create four large animal-pattern sections.
+Animals have amazing patterns!
+Color each animal in your favorite colors.
 
-### Pattern 1
-Create a simple zebra-inspired stripe pattern using:
-- Wide curved stripes
-- Large open spaces
-- Smooth, bold outlines
+Use large, clear lettering suitable for children ages 4–8.
 
-Label it:
+## Main Illustration Layout
 
-**STRIPES**
+Arrange four large animal illustrations in a balanced two-by-two grid.
 
-### Pattern 2
-Create a simple leopard-inspired spot pattern using:
-- Large rounded spots
-- Simple open shapes
-- Plenty of space between spots
+Each animal should have clear, open spaces that children can color easily.
 
-Label it:
+### Animal 1: Zebra
 
-**SPOTS**
+Illustration:
+A cute, standing zebra with a friendly expression and a large, clearly outlined body.
 
-### Pattern 3
-Create a simple giraffe-inspired pattern using:
-- Large irregular rounded shapes
-- Wide open spaces between the shapes
+Pattern requirements:
+- Include bold, alternating black-outline stripe shapes across the body.
+- Leave the spaces between the stripes white.
+- Keep the stripes wide enough for young children to color.
+- Do not fill the stripes with black.
 
-Label it:
+Label beneath the illustration:
 
-**PATCHES**
+ZEBRA
 
-### Pattern 4
-Create a simple fish-inspired scale pattern using:
-- Large repeated curved scales
-- Clear separated sections
-- Simple repeating shapes
+### Animal 2: Leopard
 
-Label it:
+Illustration:
+A friendly leopard sitting with its tail visible.
 
-**SCALES**
+Pattern requirements:
+- Include large, clearly outlined circular and irregular spots.
+- Leave the inside of every spot white.
+- Keep the spots large enough for children to color individually.
+- Avoid tiny or crowded markings.
 
-Add a short instruction near the top:
+Label beneath the illustration:
 
-**Color each pattern any way you like!**
+LEOPARD
 
-Keep each pattern section large enough for children ages 4–8 to color easily.
+### Animal 3: Giraffe
 
-## Illustration Style
-- Black-and-white children's activity-book line art
-- Bold, smooth outlines
-- Large open coloring areas
-- Simple repeating shapes
-- Clear separation between each pattern
-- No gray
-- No gradients
-- No shading
-- White background
-- Plenty of open space
-- Easy for children ages 4–8 to use
+Illustration:
+A cheerful giraffe with a long neck and small horns.
 
-## Audience
-Kids ages 4–8.
+Pattern requirements:
+- Include large, irregular polygon-shaped patches across the body and neck.
+- Keep each patch clearly separated.
+- Leave all patches white for coloring.
+
+Label beneath the illustration:
+
+GIRAFFE
+
+### Animal 4: Butterfly
+
+Illustration:
+A large, friendly butterfly with its wings spread open.
+
+Pattern requirements:
+- Divide each wing into several large, clearly outlined sections.
+- Use simple circles, curved shapes, and symmetrical decorative patterns.
+- Leave every section white for coloring.
+- Keep the patterns bold and uncluttered.
+
+Label beneath the illustration:
+
+BUTTERFLY
+
+## Illustration Rules
+
+- Black-and-white line art only.
+- Use clean, bold outlines.
+- No gray shading, gradients, or colored backgrounds.
+- Leave every animal and pattern uncolored.
+- Do not use large solid-black areas.
+- Make all pattern sections large enough for children ages 4–8.
+- Ensure each animal is easy to recognize.
+- Use consistent illustration quality across all four animals.
 
 ## Print Specifications
-- Trim size: 8.5 × 11 inches
-- Orientation: Portrait
-- Interior: Black-and-white
-- Bleed: None
-- Target resolution: 300 DPI
-- Target artwork dimensions: 2550 × 3300 pixels
-- Keep all important artwork and text inside the safe area
 
-## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Tiny coloring sections
-- Crowded layouts
-- Solid black decorative lettering
+- Page size: 8.5 × 11 inches.
+- Orientation: Portrait.
+- Interior: Black and white.
+- Bleed: No bleed.
+- Target resolution: 300 DPI.
+- Target dimensions: 2550 × 3300 pixels.
+- Keep all text and illustrations within safe print margins.
+- Leave sufficient white space between the animals.
 
-## Quality Goal
-The finished page should be a playful pattern-coloring activity that gives children large, simple shapes to color while introducing them to common animal-inspired patterns.
+## Quality Check
+
+Before approving the page, confirm:
+
+- Exactly four animal illustrations are included.
+- Each animal has a distinct, recognizable pattern.
+- The zebra has stripes.
+- The leopard has spots.
+- The giraffe has irregular patches.
+- The butterfly has open, decorative wing sections.
+- All coloring areas remain white and easy to fill.
+- No text or illustrations are cut off.
+- The page follows the book's 8.5 × 11-inch, no-bleed format.
