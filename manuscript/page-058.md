@@ -1,88 +1,74 @@
 # Page 58: Create Your Own Animal Scene
 
-## Activity
-Create a fun creative activity page where children can invent an entire scene for an animal of their choice.
+## Page Purpose
+Give children the freedom to draw and color their own animal scene using their imagination.
 
-## Page Layout
-Include:
+## Main Heading
+Display the following words in large, playful, outlined uppercase letters:
 
-**CREATE YOUR OWN ANIMAL SCENE**
+CREATE YOUR OWN
+ANIMAL SCENE!
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+## Activity Instructions
+Include this short instruction beneath the heading:
 
-Below the heading, include a large blank drawing area with a simple rounded decorative border.
+What animals live in your world?
+Draw your own amazing animal scene!
 
-The drawing area should provide plenty of space for children to draw:
-- Their favorite animal
-- The animal's home
-- Trees or plants
-- Clouds
-- Flowers
-- Rocks
-- Other animals
-- Anything else they imagine
+Use large, clear, child-friendly lettering.
 
-Keep the center of the drawing area mostly empty.
+## Main Drawing Area
 
-Around the outside of the drawing area, include a few small decorative elements:
-- Paw prints
-- Stars
-- Leaves
-- Hearts
-- Small clouds
+Create one large, completely open drawing area occupying most of the page.
 
-Keep the decorations simple and away from the main drawing space.
+Surround the drawing area with a simple, rounded rectangular border.
 
-Near the bottom of the page, include:
+Inside the drawing area:
 
-**My animal lives in:**
+- Leave the space blank for the child to draw.
+- Do not include any completed animals.
+- Do not add scenery, trees, buildings, mountains, or other objects.
+- Do not add guide shapes or faint sketches.
+- Keep the drawing space clean and unobstructed.
 
-Follow this with a long blank line.
+Add only a few tiny decorative outline elements outside the drawing area, such as a star, a paw print, or a small leaf.
 
-Then include:
+## Optional Writing Section
 
-**My animal is doing:**
+Below the drawing area, include:
 
-Follow this with a long blank line.
+MY ANIMAL WORLD IS CALLED:
 
-## Illustration Style
-- Black-and-white children's activity-book line art
-- Bold, smooth outlines
-- Large open drawing areas
-- Simple decorative shapes
-- No gray
-- No gradients
-- No shading
-- White background
-- Plenty of creative space
-- Easy for children ages 4–8 to use
+Provide one long, blank writing line.
 
-## Audience
-Kids ages 4–8.
+## Illustration Rules
+
+- Black-and-white line art only.
+- Use clean, bold outlines.
+- No gray shading, gradients, or colored elements.
+- Keep the page cheerful and suitable for children ages 4–8.
+- Make the drawing area large enough for young children to draw comfortably.
+- Ensure decorative elements do not enter the main drawing space.
+- Do not pre-fill the child's creative work.
 
 ## Print Specifications
-- Trim size: 8.5 × 11 inches
-- Orientation: Portrait
-- Interior: Black-and-white
-- Bleed: None
-- Target resolution: 300 DPI
-- Target artwork dimensions: 2550 × 3300 pixels
-- Keep all important artwork and text inside the safe area
 
-## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Tiny drawing areas
-- Crowded layouts
-- Excessive decorative elements
-- Solid black lettering
+- Page size: 8.5 × 11 inches.
+- Orientation: Portrait.
+- Interior: Black and white.
+- Bleed: No bleed.
+- Target resolution: 300 DPI.
+- Target dimensions: 2550 × 3300 pixels.
+- Keep all text, borders, and decorations within safe print margins.
+- Leave sufficient white space for drawing and writing.
 
-## Quality Goal
-The finished page should encourage children to use their imagination and create a complete animal world of their own, while keeping the page simple, spacious, and easy to color and draw on.
+## Quality Check
+
+Before approving the page, confirm:
+
+- The heading is large and readable.
+- The instructions are short and easy to understand.
+- The drawing area is large and completely blank.
+- The writing line is clearly visible.
+- No unwanted illustrations appear inside the drawing area.
+- The page follows the book's 8.5 × 11-inch, no-bleed format.
