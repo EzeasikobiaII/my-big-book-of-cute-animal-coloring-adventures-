@@ -1,71 +1,124 @@
 # Page 56: Design Your Own Animal
 
 ## Activity
-Create a fun creative activity page where children can invent and design their own unique animal.
+
+Create a fun, imaginative drawing activity where children invent and design their own original animal.
+
+Encourage children to combine features from different animals or invent completely new features. There are no wrong answers.
+
+The page should support creativity, drawing, coloring, and early writing skills.
+
+## Main Heading
+
+Include the heading:
+
+DESIGN YOUR OWN ANIMAL
+
+Place it near the top of the page using large, bold, easy-to-read outlined letters.
+
+The letter interiors must remain white and open so children can color them.
+
+Do not use solid-black lettering.
+
+## Drawing Area
+
+Below the heading, create one large, mostly empty drawing area with a simple decorative border.
+
+The drawing area should:
+- Occupy most of the central page.
+- Provide plenty of room for a complete animal drawing.
+- Have a clear border with rounded corners.
+- Remain open and uncluttered.
+- Allow children to draw large shapes and small details comfortably.
+
+Include a few small decorative elements near the border, such as:
+- Stars
+- Hearts
+- Paw prints
+- Leaves
+- Tiny flowers
+
+Keep all decorations away from the center of the drawing area.
+
+Do not include a completed animal illustration inside the drawing area. Children must have room to invent their own design.
+
+## Animal Name
+
+Below the drawing area, include the heading:
+
+MY ANIMAL'S NAME:
+
+Add one long, clear writing line beneath it.
+
+The line should provide enough space for a child to name their invented animal.
+
+## My Animal's Special Features
+
+Include the heading:
+
+MY ANIMAL CAN:
+
+Below it, provide two wide writing lines where children can describe what their animal can do.
+
+For example, children might imagine an animal that can fly, swim, climb, glow, or jump very high.
+
+Do not print these examples as fixed answers on the page. Leave the response area open for the child's imagination.
+
+Children who cannot yet write confidently should be able to draw their answer instead.
 
 ## Page Layout
-Include:
 
-**DESIGN YOUR OWN ANIMAL**
+Arrange the page in this order:
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+1. Large outlined heading at the top.
+2. Large central drawing area.
+3. Animal-name heading and one writing line.
+4. Special-features heading and two wide writing lines.
 
-Below the heading, include a large blank drawing area with a simple rounded decorative border.
+Maintain generous spacing between all sections.
 
-Inside the drawing area, leave most of the space completely empty so children can create their own animal.
+Keep the page balanced, simple, and easy for young children to use.
 
-Add a few small decorative prompts around the edges:
-- Simple stars
-- Small hearts
-- Leaves
-- Tiny clouds
-- Small paw prints
-
-Keep these decorations away from the main drawing space.
-
-Near the bottom of the page, include:
-
-**My animal's name:**
-
-Follow this with a long blank line.
-
-Also include:
-
-**It can:**
-
-Follow this with two wide writing lines.
-
-Then include:
-
-**It lives in:**
-
-Follow this with one wide writing line.
+All text, borders, and decorative elements must remain within the safe print margins.
 
 ## Illustration Style
+
 - Black-and-white children's activity-book line art
 - Bold, smooth outlines
-- Large open drawing areas
+- Large open areas
 - Simple decorative shapes
-- No gray
-- No gradients
-- No shading
 - White background
-- Plenty of writing space
+- No gray shading
+- No gradients
+- No shadows
+- No unnecessary tiny details
+- No completed animal inside the main drawing area
+- Plenty of room for drawing and writing
 - Easy for children ages 4–8 to use
 
 ## Audience
-Kids ages 4–8.
+
+Children ages 4–8.
+
+The activity should be accessible to early learners who may prefer drawing rather than writing full sentences.
+
+Children should be able to participate by drawing, coloring, writing a name, or combining these activities.
 
 ## Print Specifications
+
 - Trim size: 8.5 × 11 inches
 - Orientation: Portrait
 - Interior: Black-and-white
-- Bleed: None
+- Bleed: No bleed
 - Target resolution: 300 DPI
 - Target artwork dimensions: 2550 × 3300 pixels
 - Keep all important artwork and text inside the safe area
+- Use clear, printable outlines
+- Maintain generous margins
+- Ensure writing lines remain visible in print
 
 ## Content Restrictions
+
 Do not include:
 - Copyrighted characters
 - Trademarked characters
@@ -75,10 +128,34 @@ Do not include:
 - Photorealistic imagery
 - Scary or frightening imagery
 - Weapons
-- Tiny drawing areas
+- Tiny writing areas
 - Crowded layouts
 - Excessive decorative elements
-- Solid black decorative lettering
+- Solid-black decorative lettering
+- Gray shading
+- Gradients
+- A completed animal illustration inside the main drawing area
+- Unnecessary instructional text
+
+## Quality Control Checklist
+
+Before approving the final artwork, confirm:
+
+- [ ] The heading reads DESIGN YOUR OWN ANIMAL.
+- [ ] The heading uses outlined letters with open interiors.
+- [ ] The central drawing area is large and mostly empty.
+- [ ] No completed animal appears inside the drawing area.
+- [ ] Decorative elements remain near the border.
+- [ ] The animal-name section includes one long writing line.
+- [ ] The special-features section includes two wide writing lines.
+- [ ] The layout accommodates both drawing and early writing.
+- [ ] All content fits within the safe margins.
+- [ ] The page uses black-and-white line art only.
+- [ ] The design is suitable for children ages 4–8.
+- [ ] The page follows the 8.5 × 11-inch, no-bleed specifications.
 
 ## Quality Goal
-The finished page should encourage imagination and give children plenty of room to invent an original animal, name it, and describe its special abilities and home.
+
+The finished page should inspire children to invent a unique animal of their own.
+
+It should provide generous drawing space, simple writing prompts, and an uncluttered design that makes creativity easy and enjoyable.
