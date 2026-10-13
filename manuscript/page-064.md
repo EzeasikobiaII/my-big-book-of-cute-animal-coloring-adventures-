@@ -1,90 +1,96 @@
 # Page 64: Until Our Next Animal Adventure
 
-## Activity
-Create a warm, cheerful final page that brings the animal coloring adventure to a happy close.
+## Page Purpose
+End the coloring book with a cheerful farewell that celebrates children's creativity and encourages them to keep exploring the animal world.
 
-## Page Layout
-Include:
+## Main Heading
 
-**UNTIL OUR NEXT ANIMAL ADVENTURE!**
+Display these words in large, playful, outlined uppercase letters:
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+UNTIL OUR NEXT
+ANIMAL ADVENTURE!
 
-Below the heading, include a short friendly message:
+Make the heading bold, friendly, and easy to read.
 
-**You did an amazing job!**
+## Farewell Message
 
-**Keep coloring, keep creating, and keep discovering the wonderful world of animals!**
+Include the following message beneath the heading:
 
-Create a large open decorative area in the center of the page.
+THANK YOU FOR COLORING WITH US!
 
-Around this area, include a selection of small, simple original animal silhouettes and faces representing different types of animals, such as:
-- A small pawed animal
-- A bird
-- A fish
-- A turtle
-- A butterfly
-- A friendly sea animal
+We hope you had lots of fun
+meeting our animal friends.
 
-Keep all illustrations generic and original.
+Keep your crayons ready,
+your imagination growing,
+and your heart full of curiosity!
 
-Add simple decorative elements:
-- Stars
-- Hearts
-- Leaves
-- Flowers
-- Small clouds
-- Paw prints
+THERE ARE ALWAYS MORE ANIMALS TO DISCOVER!
 
-Near the bottom, include:
+Use large, clear lettering suitable for children ages 4–8.
 
-**THE END**
+## Main Illustration
 
-Use large outlined letters with white/open interiors so children can color them.
+Create one large, cheerful animal adventure scene featuring:
 
-Below that, include:
+- A smiling puppy waving goodbye with one paw.
+- A friendly bunny sitting beside the puppy.
+- A small bird flying above them.
+- A cute butterfly with open wings.
+- A simple sun with a happy face.
+- A few large stars and hearts.
 
-**Keep your imagination wild!**
+Arrange the characters in a balanced composition, leaving enough white space around each illustration for coloring.
 
-## Illustration Style
-- Black-and-white children's coloring book line art
-- Bold, smooth outlines
-- Large open coloring areas
-- Simple shapes suitable for children ages 4–8
-- Large, clearly separated sections
-- No gray
-- No gradients
-- No shading
-- White background
-- Clear separation between objects
-- Plenty of open space for coloring
+All animals should have friendly expressions and simple, recognizable shapes.
 
-## Audience
-Kids ages 4–8.
+## Final Message
+
+Near the bottom of the page, display:
+
+KEEP EXPLORING.
+KEEP CREATING.
+KEEP COLORING!
+
+Use playful, outlined lettering that children can color.
+
+## Decorative Elements
+
+Add a few small paw prints, stars, and leaves around the outer edges.
+
+Keep decorations simple and avoid overcrowding the page.
+
+## Illustration Rules
+
+- Black-and-white line art only.
+- Use clean, bold outlines.
+- Leave all illustrations uncolored.
+- No gray shading, gradients, or colored backgrounds.
+- Avoid large solid-black areas.
+- Use large shapes suitable for children ages 4–8.
+- Keep text readable and correctly spelled.
+- Ensure the illustrations do not overlap the text.
+- Do not include page numbers inside the artwork.
 
 ## Print Specifications
-- Trim size: 8.5 × 11 inches
-- Orientation: Portrait
-- Interior: Black-and-white
-- Bleed: None
-- Target resolution: 300 DPI
-- Target artwork dimensions: 2550 × 3300 pixels
-- Keep all important artwork and text inside the safe area
 
-## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Thin, fragile linework
-- Tiny coloring sections
-- Unnecessary text
-- Solid black lettering
+- Page size: 8.5 × 11 inches.
+- Orientation: Portrait.
+- Interior: Black and white.
+- Bleed: No bleed.
+- Target resolution: 300 DPI.
+- Target dimensions: 2550 × 3300 pixels.
+- Keep all text and illustrations within safe print margins.
+- Leave sufficient white space for coloring.
 
-## Quality Goal
-The finished page should provide a cheerful and satisfying ending to the book, leaving children with a sense of accomplishment and encouraging them to continue drawing, coloring, and exploring animals.
+## Quality Check
+
+Before approving the page, confirm:
+
+- The farewell message is encouraging and age-appropriate.
+- The animals are friendly and easy to recognize.
+- The coloring spaces are large enough for young children.
+- All text is readable and correctly spelled.
+- No unwanted shading or color is present.
+- The page follows the book's 8.5 × 11-inch, no-bleed format.
+- The design feels like a satisfying ending to the book.
