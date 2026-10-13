@@ -1,83 +1,102 @@
 # Page 60: Animal Matching Game
 
-## Activity
-Create a simple and fun animal matching activity for children ages 4–8.
+## Page Purpose
+Help children practice animal recognition and early reading by matching animal pictures with their names.
 
-## Page Layout
-Include:
+## Main Heading
+Display the following words in large, playful, outlined uppercase letters:
 
-**ANIMAL MATCHING GAME**
+ANIMAL MATCHING
+GAME!
 
-Place the heading near the top of the page using large, bold, outlined letters with white/open interiors so children can color the letters.
+## Instructions
+Include the following sentence beneath the heading:
 
-Below the heading, create two clearly separated columns.
+Can you match each animal to its name?
+Draw a line from each animal to the correct word!
 
-### Left Column
-Include five simple animal illustrations:
-- Giraffe
-- Penguin
-- Rabbit
-- Elephant
-- Turtle
+Use large, clear lettering suitable for children ages 4–8.
 
-### Right Column
-Include five matching homes or environments:
-- Pond
-- Jungle
-- Ocean
-- Grassland
-- Burrow
+## Game Layout
 
-Arrange the items in a mixed order so children can draw lines between each animal and the environment where it belongs.
+Divide the page into two clear columns.
 
-Keep enough space between the two columns for children to draw clear connecting lines.
+LEFT COLUMN: ANIMAL PICTURES
 
-Below the matching activity, include:
+RIGHT COLUMN: ANIMAL NAMES
 
-**BONUS!**
+Arrange five animal illustrations in the left column and five animal names in the right column.
 
-**Color all the animals when you finish matching them.**
+Do not place matching animals and names on the same horizontal line. Mix up the order of the names so children must work out the correct matches.
 
-Add a few small stars and paw prints around the bottom of the page.
+## Left Column: Animal Illustrations
 
-## Illustration Style
-- Black-and-white children's activity-book line art
-- Bold, smooth outlines
-- Large open coloring areas
-- Simple animal shapes
-- Clear separation between matching items
-- No gray
-- No gradients
-- No shading
-- White background
-- Plenty of open space for drawing connecting lines
-- Easy for children ages 4–8 to use
+### Animal Picture 1
+Illustration: A cute puppy sitting with its tail visible.
 
-## Audience
-Kids ages 4–8.
+### Animal Picture 2
+Illustration: A cheerful elephant with large ears and a trunk.
+
+### Animal Picture 3
+Illustration: A friendly penguin standing upright.
+
+### Animal Picture 4
+Illustration: A smiling rabbit with long ears.
+
+### Animal Picture 5
+Illustration: A giraffe with a long neck and visible spots.
+
+## Right Column: Animal Names
+
+Display these five words in large, clear uppercase letters in the following mixed order:
+
+GIRAFFE
+
+PUPPY
+
+RABBIT
+
+ELEPHANT
+
+PENGUIN
+
+## Matching Rules
+
+- Leave generous horizontal space between the two columns for drawing lines.
+- Keep each animal picture clearly separated from the others.
+- Ensure every animal illustration is easy to recognize.
+- Make the animal names large enough for early readers.
+- Do not draw any matching lines in advance.
+- Do not use arrows or numbers that reveal the answers.
+- Keep the activity simple and uncluttered.
+
+## Illustration Rules
+
+- Black-and-white line art only.
+- Use clean, bold outlines.
+- Leave the animal illustrations uncolored.
+- No gray shading, gradients, or colored backgrounds.
+- Use simple, friendly animal designs suitable for children ages 4–8.
 
 ## Print Specifications
-- Trim size: 8.5 × 11 inches
-- Orientation: Portrait
-- Interior: Black-and-white
-- Bleed: None
-- Target resolution: 300 DPI
-- Target artwork dimensions: 2550 × 3300 pixels
-- Keep all important artwork and text inside the safe area
 
-## Content Restrictions
-Do not include:
-- Copyrighted characters
-- Trademarked characters
-- Logos
-- Brand names
-- Watermarks
-- Photorealistic imagery
-- Scary or frightening imagery
-- Weapons
-- Tiny text
-- Crowded layouts
-- Solid black decorative lettering
+- Page size: 8.5 × 11 inches.
+- Orientation: Portrait.
+- Interior: Black and white.
+- Bleed: No bleed.
+- Target resolution: 300 DPI.
+- Target dimensions: 2550 × 3300 pixels.
+- Keep all text and illustrations within safe print margins.
+- Leave enough space for children to draw matching lines.
 
-## Quality Goal
-The finished page should be a playful educational activity that helps children recognize animals and connect them with appropriate environments while also giving them additional pictures to color.
+## Quality Check
+
+Before approving the page, confirm:
+
+- Exactly five animal pictures are included.
+- Exactly five animal names are included.
+- Every animal has one correct matching name.
+- The names appear in a mixed order.
+- No matching lines have been drawn in advance.
+- The page is easy to understand and complete.
+- The design follows the book's 8.5 × 11-inch, no-bleed format.
